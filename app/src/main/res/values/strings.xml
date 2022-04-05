@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Bow Wow Dog Groomers</string>
+    <string name="dog_groomers">Dog Groomers</string>
+    <string name="bow_wow">Bow Wow</string>
+    <string name="calculate">Calculate</string>
+    <string name="reset">Reset</string>
+    <string name="weight_lbs">Weight (lbs)</string>
+    <string name="order">Order</string>
+    <string name="massage">Massage</string>
+    <string name="trim_nails">Trim Nails</string>
+    <string name="flea_bath">Flea Bath</string>
+</resources>
